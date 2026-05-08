@@ -1,0 +1,85 @@
+/* Brand Identity */
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: #f8f9f7;
+  color: #2c3e3e;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  margin-top: 0;
+}
+
+/* Header */
+header {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+header p {
+  font-weight: 300;
+}
+
+/* Navigation */
+nav {
+  background-color: #006666;
+  padding: 12px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+nav a:hover {
+  color: #b2dfdb;
+}
+
+/* Main */
+main {
+  padding: 20px;
+}
+
+/* Sections */
+section {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+/* Buttons */
+button {
+  background-color: #008080;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #006666;
+}
+
+/* Footer */
+footer {
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
